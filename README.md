@@ -20,4 +20,5 @@ My name is Ricky. I'm focused on back-end development and database design. I lik
 <p align="left">
 <a href="https://www.linkedin.com/in/ricky-putra-tedjo"><img src="https://img.shields.io/badge/-Ricky%20Putra%20Pratama%20Tedjo-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://discord.gg/dttFnBCh"><img src="https://img.shields.io/badge/-.m8-523EAE?style=flat&logo=Discord&logoColor=white"/></a>
+  <a href="https://steamcommunity.com/id/rotlm"><img src="https://img.shields.io/badge/-rotlm-08037E?style=flat&logo=Steam&logoColor=white"/></a>
 </p>

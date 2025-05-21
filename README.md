@@ -28,10 +28,8 @@ My name is Ricky. I'm focused on back-end development and database design. I lik
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-### Stats
+### 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickytedjo&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" height="220" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickytedjo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="220" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=rickytedjo&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickytedjo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="220" alt="languages graph" />
 </div>
 
